@@ -16,23 +16,23 @@ working implementation in TensorFlow.
 
 Each team works collaboratively on these goals:
 
-- Understand the gist of the paper and how the paper advances
+- Understand the gist of the paper and how it advances
   state-of-the-art
 - Install and use the paper implementation to reproduce results
 - Use Guild AI to automate model operations and document functionality
 - Consider ways of applying project in an application
 - Time permitting, consider improvements to the implementation project
 
-At their discretion, team members may continue to work with the
-project after the workshop, either for application development or to
-contribute improvements to the project.
+Team members may continue to work with the project after the workshop,
+either for application development or to contribute improvements to
+the project.
 
 We use this repository to manage source code and coordinate work
 activities.
 
 ### Preparation
 
-The workshop itself is four hours. However, we spend time in
+The workshop itself is limited to four hours so we spend time in
 preparation to maximize our face-to-face time:
 
 - Identify candidate papers and implementation projects
@@ -47,9 +47,11 @@ possible.
 
 ### Workshop time
 
-We spend the four hour workshop period moving each team forward. We
-use the face-to-face time as an opportunity for in-depth
-collaboration.
+We spend the four hour workshop moving each team forward. We use the
+face-to-face time as an opportunity for in-depth collaboration.
+
+Because of the wide scope of effort, we don't set hard goals for the
+face-to-face workshop time. Work may continue after Nov 30.
 
 ### Post workshop
 
