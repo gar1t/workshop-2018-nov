@@ -70,3 +70,133 @@ projects. This may include:
 Paper: https://openreview.net/pdf?id=HJWLfGWRb
 
 Implementation: https://github.com/www0wwwjs1/Matrix-Capsules-EM-Tensorflow
+
+Application: Image classification
+
+### Mask-RCNN
+
+Paper: https://arxiv.org/abs/1703.06870
+
+Implementation (Keras): https://github.com/matterport/Mask_RCNN
+
+Application: Object detection and segmentation
+
+### Real Time Trigger Word Detection with Keras
+
+Blog post: https://www.dlology.com/blog/how-to-do-real-time-trigger-word-detection-with-keras/
+
+Application: Speech recognition
+
+### PointCNN: Convolution On X-Transformed Points
+
+Paper: https://arxiv.org/abs/1801.07791
+
+Project: https://github.com/yangyanli/PointCNN
+
+Application: Point clouds
+
+### Realistic Evaluation of Deep Semi-Supervised Learning Algorithms
+
+Paper: https://arxiv.org/abs/1804.09170
+
+Project: https://github.com/brain-research/realistic-ssl-evaluation
+
+Application: Semi-supervised learning research
+
+### Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models
+
+Paper: https://arxiv.org/abs/1805.12114v1
+
+Project: https://github.com/kchua/handful-of-trials
+
+Application:
+
+### LF-Net: Learning Local Features from Images
+
+Paper: https://arxiv.org/abs/1805.09662
+
+Project: https://github.com/vcg-uvic/lf-net-release
+
+Application: Feature mapping
+
+### Neural Architecture Optimization
+
+Paper: https://arxiv.org/abs/1808.07233
+
+Project: https://github.com/renqianluo/NAO
+
+Application: Multiple
+
+### Multi-View Silhouette and Depth Decomposition for High Resolution 3D Object Representation
+
+Paper: https://arxiv.org/abs/1802.09987
+
+Project: https://github.com/EdwardSmith1884/Multi-View-Silhouette-and-Depth-Decomposition-for-High-Resolution-3D-Object-Representation
+
+Application: 3D object upsampling
+
+### Neural Architecture Search with Bayesian Optimisation and Optimal Transport
+
+Paper: https://arxiv.org/abs/1802.07191
+
+Project: https://github.com/kirthevasank/nasbot
+
+Application:
+
+### SimplE Embedding for Link Prediction in Knowledge Graphs
+
+Paper: https://arxiv.org/abs/1802.04868
+
+Project: https://github.com/Mehran-k/SimplE
+
+Application: Tensor factorization
+
+### Attention in Convolutional LSTM for Gesture Recognition
+
+Paper:
+
+Project: https://github.com/GuangmingZhu/AttentionConvLSTM
+
+Application:
+
+### Neural Code Comprehension: A Learnable Representation of Code Semantics
+
+Paper: https://arxiv.org/abs/1806.07336
+
+Project: https://github.com/spcl/ncc
+
+### Adapted Deep Embeddings: A Synthesis of Methods for k-Shot Inductive Transfer Learning
+
+Paper: https://arxiv.org/abs/1805.08402
+
+Project: https://github.com/tylersco/adapted_deep_embeddings
+
+### Playing hard exploration games by watching YouTube videos
+
+Paper: https://arxiv.org/abs/1805.11592
+
+Project: https://github.com/MaxSobolMark/HardRLWithYoutube
+
+### Robustness of Conditional GANs to Noisy Labels
+
+Paper: https://arxiv.org/abs/1811.03205
+
+Project: https://github.com/POLane16/Robust-Conditional-GAN
+
+### Deep Dynamical Modeling and Control of Unsteady Fluid Flows
+
+Paper: https://arxiv.org/abs/1805.07472
+
+Project: https://github.com/sisl/deep_flow_control
+
+### Semi-supervised Deep Kernel Learning: Regression with Unlabeled Data by Minimizing Predictive Variance
+
+Paper: https://arxiv.org/abs/1805.10407
+
+Project: https://github.com/ermongroup/ssdkl
+
+### Mapping Images to Scene Graphs with Permutation-Invariant Structured Prediction
+
+Paper: https://arxiv.org/abs/1802.05451
+
+Project: https://github.com/nips2018axiomatic/Mapping-Images-to-Scene-Graphs-master
