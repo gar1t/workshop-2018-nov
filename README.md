@@ -1,5 +1,22 @@
 # TensorFlow/Guild AI Workshop, Nov 2018 - Chicago
 
+This is the GitHub repository for the TensorFlow and Guild AI workshop
+on Nov 30, 2018.
+
+All workshop participants are required to [read and agree to our code
+of conduct](CONDUCT.md).
+
+Workshop organizers:
+
+- Garrett Smith <br> g_at_rre.tt <br> 312_231_3900
+
+Getting help:
+
+- [Slack
+  workspace](https://join.slack.com/t/guildai/shared_invite/enQtNDgxNDg5ODk2MjI2LWQ5ODI3ZGE2YzljYWViNTA0NjFmNDg4NTI3ZjY2Mjk2YTkzZjAxZWM3M2EyNTcyZWU0YzgzM2IwMTI0ZjFhNTU)
+  (use `#workshop` channel to post questions)
+- [Workshop issues on GitHub](https://github.com/gar1t/workshop-2018-nov/issues)
+
 ## Overview
 
 ### Goals
@@ -44,6 +61,30 @@ preparation to maximize our face-to-face time:
 
 Teams should try to make as much progress prior to the workshop as
 possible.
+
+### Laptop environment setup
+
+All workshop participants should bring a configured laptop that is
+suitable for their project work. The specific configuration depends on
+their project and their team role.
+
+In general, these guidelines apply to all paricipants:
+
+- Be capable of SSHing into a remote server using public/private key
+  authentication. We will use servers running in EC2 during the
+  workshop.
+
+- Complete the example steps in [Guild AI
+  introduction](https://guild.ai/docs/intro/). This guide ensures that
+  you are able to train a simple TensorFlow model and have Guild AI
+  installed correctly.
+
+- Once you have selected a project to work on, spend time reproducing
+  the results documented in the project README.
+
+If you face any issues, please use the [Slack
+workspace](https://join.slack.com/t/guildai/shared_invite/enQtNDgxNDg5ODk2MjI2LWQ5ODI3ZGE2YzljYWViNTA0NjFmNDg4NTI3ZjY2Mjk2YTkzZjAxZWM3M2EyNTcyZWU0YzgzM2IwMTI0ZjFhNTU)
+and post a question to the `#workshop` channel.
 
 ### Workshop time
 
@@ -200,3 +241,7 @@ Project: https://github.com/ermongroup/ssdkl
 Paper: https://arxiv.org/abs/1802.05451
 
 Project: https://github.com/nips2018axiomatic/Mapping-Images-to-Scene-Graphs-master
+
+Notes:
+
+- https://github.com/nips2018axiomatic/Mapping-Images-to-Scene-Graphs-master/issues/1
