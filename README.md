@@ -245,3 +245,9 @@ Project: https://github.com/nips2018axiomatic/Mapping-Images-to-Scene-Graphs-mas
 Notes:
 
 - https://github.com/nips2018axiomatic/Mapping-Images-to-Scene-Graphs-master/issues/1
+
+### Auto-Keras: Efficient Neural Architecture Search with Network Morphism
+
+Paper: https://arxiv.org/pdf/1806.10282.pdf
+
+Project: https://github.com/jhfjhfj1/autokeras
