@@ -106,6 +106,14 @@ projects. This may include:
 
 ## Candidate papers
 
+### Tree-based Convolutional Neural Networks
+
+Paper: https://arxiv.org/abs/1409.5718
+
+Implementation: https://github.com/crestonbunch/tbcnn
+
+Application: Natural language understanding/processing of code, custom convolutional shapes
+
 ### Matrix Capsules with EM Routine
 
 Paper: https://openreview.net/pdf?id=HJWLfGWRb
