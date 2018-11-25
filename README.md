@@ -104,7 +104,11 @@ projects. This may include:
 - Building an application
 - Preparing pull requests for upstream projects
 
-## Candidate papers
+## Selected papers
+
+The papers/projects in this section have been adopted by workshop
+participants. See [Candidate papers](#candidate-papers) for more
+papers/projects to select from.
 
 ### Tree-based Convolutional Neural Networks
 
@@ -113,6 +117,36 @@ Paper: https://arxiv.org/abs/1409.5718
 Implementation: https://github.com/crestonbunch/tbcnn
 
 Application: Natural language understanding/processing of code, custom convolutional shapes
+
+Team lead: Rebecca (@r-wei)
+
+### Real Time Trigger Word Detection with Keras
+
+Blog post: https://www.dlology.com/blog/how-to-do-real-time-trigger-word-detection-with-keras/
+
+Application: Speech recognition
+
+Team lead: Anand (@saket424)
+
+### Realistic Evaluation of Deep Semi-Supervised Learning Algorithms
+
+Paper: https://arxiv.org/abs/1804.09170
+
+Project: https://github.com/brain-research/realistic-ssl-evaluation
+
+Application: Semi-supervised learning research
+
+Team lead: Garrett (@gar1t)
+
+### Auto-Keras: Efficient Neural Architecture Search with Network Morphism
+
+Paper: https://arxiv.org/pdf/1806.10282.pdf
+
+Project: https://github.com/jhfjhfj1/autokeras
+
+Team lead: Nathan (@ngduser)
+
+## Candidate papers
 
 ### Matrix Capsules with EM Routine
 
@@ -130,12 +164,6 @@ Implementation (Keras): https://github.com/matterport/Mask_RCNN
 
 Application: Object detection and segmentation
 
-### Real Time Trigger Word Detection with Keras
-
-Blog post: https://www.dlology.com/blog/how-to-do-real-time-trigger-word-detection-with-keras/
-
-Application: Speech recognition
-
 ### PointCNN: Convolution On X-Transformed Points
 
 Paper: https://arxiv.org/abs/1801.07791
@@ -143,14 +171,6 @@ Paper: https://arxiv.org/abs/1801.07791
 Project: https://github.com/yangyanli/PointCNN
 
 Application: Point clouds
-
-### Realistic Evaluation of Deep Semi-Supervised Learning Algorithms
-
-Paper: https://arxiv.org/abs/1804.09170
-
-Project: https://github.com/brain-research/realistic-ssl-evaluation
-
-Application: Semi-supervised learning research
 
 ### Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models
 
@@ -253,9 +273,3 @@ Project: https://github.com/nips2018axiomatic/Mapping-Images-to-Scene-Graphs-mas
 Notes:
 
 - https://github.com/nips2018axiomatic/Mapping-Images-to-Scene-Graphs-master/issues/1
-
-### Auto-Keras: Efficient Neural Architecture Search with Network Morphism
-
-Paper: https://arxiv.org/pdf/1806.10282.pdf
-
-Project: https://github.com/jhfjhfj1/autokeras
