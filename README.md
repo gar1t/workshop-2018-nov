@@ -114,6 +114,8 @@ papers/projects to select from.
 
 Paper: https://arxiv.org/abs/1409.5718
 
+Quick Intro to the Paper: https://docs.google.com/presentation/d/1v6m_RG4cC3JpnFi82Xnb_AH1_6XPLuTQw3corgMEdKA/edit?usp=sharing
+
 Implementation: https://github.com/crestonbunch/tbcnn
 
 Application: Natural language understanding/processing of code, custom convolutional shapes
