@@ -1,0 +1,38 @@
+config:
+  k80-base:
+    description: Tesla K80 running on EC2
+    type: ssh
+    user: ubuntu
+    private-key: id_rsa
+
+remotes:
+  k80-blue:
+    extends: k80-base
+    host: ec2-18-224-17-92.us-east-2.compute.amazonaws.com
+  k80-red:
+    extends: k80-base
+    host: xxx
+  k80-green:
+    extends: k80-base
+    host: xxx
+  k80-yellow:
+    extends: k80-base
+    host: xxx
+  k80-gray:
+    extends: k80-base
+    host: xxx
+  k80-black:
+    extends: k80-base
+    host: xxx
+  k80-teal:
+    extends: k80-base
+    host: xxx
+  k80-white:
+    extends: k80-base
+    host: xxx
+  k80-navy:
+    extends: k80-base
+    host: xxx
+  k80-silver:
+    extends: k80-base
+    host: xxx

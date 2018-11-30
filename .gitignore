@@ -1,0 +1,6 @@
+*.egg-info
+*.pyc
+build
+remote/id_rsa
+remote/ec2-creds
+remote/remotes

@@ -1,0 +1,6 @@
+- model: hello
+  description: Hello world project
+  operations:
+    hello:
+      description: Say hello
+      main: hello

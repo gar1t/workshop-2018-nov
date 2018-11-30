@@ -1,0 +1,44 @@
+config:
+  ec2-base:
+    type: ec2
+    ami: ami-4f62582a
+    private-key: id_rsa
+    public-key: id_rsa.pub
+    user: ubuntu
+
+    init: |
+      set -ex
+      cat > ~/.bashrc << EOF
+        export LD_LIBRARY_PATH=/usr/local/cuda/lib64:/usr/local/lib:/usr/lib:/usr/local/cuda/extras/CUPTI/lib64
+      EOF
+      . ~/.bashrc
+      sudo pip install --pre --upgrade guildai tensorflow-gpu
+      guild check
+      guild sys shutdown-timer start --timeout 240 --su
+  k80-base:
+    extends: ec2-base
+    description: Tesla K80 running on EC2
+    region: us-east-2
+    instance-type: p3.2xlarge
+
+remotes:
+  k80-blue:
+    extends: k80-base
+  k80-red:
+    extends: k80-base
+  k80-green:
+    extends: k80-base
+  k80-yellow:
+    extends: k80-base
+  k80-gray:
+    extends: k80-base
+  k80-black:
+    extends: k80-base
+  k80-teal:
+    extends: k80-base
+  k80-white:
+    extends: k80-base
+  k80-navy:
+    extends: k80-base
+  k80-silver:
+    extends: k80-base
