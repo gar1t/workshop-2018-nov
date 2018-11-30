@@ -125,6 +125,7 @@ Team lead: Rebecca (@r-wei)
 ### Real Time Trigger Word Detection with Keras
 
 Blog post: https://www.dlology.com/blog/how-to-do-real-time-trigger-word-detection-with-keras/
+Blog post: https://blog.manash.me/building-a-dead-simple-word-recognition-engine-using-convnet-in-keras-25e72c19c12b
 
 Application: Speech recognition
 
